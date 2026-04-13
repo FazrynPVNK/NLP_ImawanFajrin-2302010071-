@@ -7,6 +7,7 @@ Proyek ini melakukan analisis sentimen ulasan film menggunakan metode Bag of Wor
 ## Dataset
 
 IMDb Movie Review Dataset (50.000 data)
+FIle dataset (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## Cara Menjalankan
 
